@@ -55,10 +55,10 @@ Bar Chart (Education): Identifies that students at the Matriculate/Secondary lev
 1. Educational Status Impact: Primary Concentration: The data indicates that students at the "Matriculate/Secondary" and "Middle" educational levels represent a significant portion of the total deaths. This suggests a critical need for mental health resources during early adolescent transitions.Professional & Higher Ed: While lower numbers are seen in "Professionals" and "Diploma" holders, the qualitative pressure in these fields remains a distinct area for investigation.
 
 
-2. Demographic TrendsGender Distribution: The donut chart reveals a stark disparity, with Male students accounting for approximately 69.81% of the reported cases, compared to 30.18% for Female students.Temporal Trends: The "Number of Deaths by Year" line chart shows a volatile trend, with a notable peak in 2019 ($14.3K$) and a rising trajectory toward 2022 ($15.4K$).
+2. Demographic Trends - Gender Distribution: The donut chart reveals a stark disparity, with Male students accounting for approximately 69.81% of the reported cases, compared to 30.18% for Female students.Temporal Trends: The "Number of Deaths by Year" line chart shows a volatile trend, with a notable peak in 2019 ($14.3K$) and a rising trajectory toward 2022 ($15.4K$).
 
 
-3. Geographic DistributionRegional Hotspots: The Tree Map ("Sum of Number of Deaths by State Name") highlights Maharashtra, Madhya Pradesh, and Telangana as states with the highest reported figures, indicating potential regional socio-economic or academic stressors.
+3. Geographic Distribution - Regional Hotspots: The Tree Map ("Sum of Number of Deaths by State Name") highlights Maharashtra, Madhya Pradesh, and Telangana as states with the highest reported figures, indicating potential regional socio-economic or academic stressors.
 
 
 📈 Statistical Framework : 
