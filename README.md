@@ -12,6 +12,12 @@ Analytics: DAX (Data Analysis Expressions) for custom measures
 
 Data Source: [Mention source, e.g., NCRB India / Open Government Data Portal]
 
+🛠️ Technical Stack - Data Visualization:  Power BI (Tree Maps, Donut Charts, and Slicers).
+
+Data Cleaning: Managing multi-year datasets to ensure consistency across state names and educational categories.
+
+Domain Focus: EdTech, Social Analytics, and Student Welfare.
+
 🚀 The Data Pre - Process
 
 1. Data Cleaning & Transformation (Power Query)
@@ -63,11 +69,7 @@ Categorical Analysis: Using the "Educational Status" as a categorical variable, 
 
 Ratio Analysis: Calculating the Male-to-Female ratio provides a clear metric for targeted outreach programs, specifically addressing the high prevalence among male students.
 
-🛠️ Technical Stack - Data Visualization:  Power BI (Tree Maps, Donut Charts, and Slicers).
 
-Data Cleaning: Managing multi-year datasets to ensure consistency across state names and educational categories.
-
-Domain Focus: EdTech, Social Analytics, and Student Welfare.
 
 
 💡 Conclusion & Recommendations:
